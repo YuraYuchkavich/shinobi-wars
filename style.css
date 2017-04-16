@@ -1,0 +1,50 @@
+body{
+	background:#333;
+}
+
+.gameName{
+	color:#fff;
+	font-family:Courier;
+	font-size:24px;
+	text-align:center;
+}
+
+canvas
+{
+	
+	display:block;
+	margin:30px auto 0px;
+}
+#naruto, #enemy, #stats , #razmetka, #kakasi, #rasengan, #chedori, #chakra, #sacura , #sasuke, #katun
+{
+	display:block;
+	margin: -600px auto 0px;
+}
+img{
+	position :relative;
+}
+
+#drawBtn{
+	position:absolute;
+	left:46%;
+	top:50%;
+	width:150px;
+	height:40px;
+	
+}
+
+#clearBtn{
+	position:absolute;
+	left:46%;
+	top:65%;
+	width:150px;
+	height:40px;
+}
+
+#Btn{
+	position:absolute;
+	left:1%;
+	top:1%;
+	width:100px;
+	height:40px;
+}
